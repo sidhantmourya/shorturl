@@ -18,7 +18,7 @@ spring:
 
 shortener:
   base:
-    url: https://chatgpt.com/c/
+    url: localhost:8080
 
 management:
   endpoints:
