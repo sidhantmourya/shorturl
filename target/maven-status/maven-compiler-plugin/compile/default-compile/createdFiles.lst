@@ -1,0 +1,5 @@
+com\url\shorturl\model\UrlMapping.class
+com\url\shorturl\service\UrlService.class
+com\url\shorturl\controller\UrlShortController.class
+com\url\shorturl\ShorturlApplication.class
+com\url\shorturl\repository\UrlRepository.class
